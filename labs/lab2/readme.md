@@ -11,7 +11,6 @@ In this module, you will configure your NGINX for Azure instance to route traffi
 To focus specifically on NGINX configuration, the following backend resources have been pre-deployed for you:
 
 * **Ubuntu VM:** A Linux virtual machine running a Dockerized "Cafe" application.
-* **Internal IP:** Your instructor will provide the internal IP of your Ubuntu VM (e.g., `n4a-ubuntuvm`).
 
 ---
 
