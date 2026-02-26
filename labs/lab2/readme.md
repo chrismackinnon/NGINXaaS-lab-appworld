@@ -25,7 +25,7 @@ NGINX aaS | Docker | Cafe Demo
 ![NGINX aaS](images/nginx-azure-icon.png)  |![Docker](images/docker-icon.png)  |![Nginx Cafe](images/cafe-icon.png)
 
 #### 1. Access the Configuration Editor
-1. Open the **Azure Portal** and navigate to your **Resource Group**. 
+1. Open the **Azure Portal** and navigate to your **NGINXaaS**. 
 2. Click on your NGINX for Azure resource (usually named **nginx4a**), which will open the Overview section. 
 3. From the left pane, click on **NGINX Configuration** under the Settings section.
 
