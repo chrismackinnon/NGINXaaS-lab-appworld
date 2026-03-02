@@ -109,7 +109,9 @@ In this section you will be looking at NGINX for Azure resource that you created
 
    ![Copy IP Address](images/lab1_copy_ip_address.png)
 
-4. In a new browser window, paste the public IP into the address bar. You will notice the sample index page gets rendered into your browser.
+4. Open your RDP session to the jump host and open Chrome.
+
+6. In the Chrome browser, paste the public IP into the address bar. You will notice the sample index page gets rendered into your browser.
 
    ![n4a Index Page](images/lab1_n4a_index_page.png)
 
@@ -118,7 +120,7 @@ In this section you will be looking at NGINX for Azure resource that you created
    - From a command line, run "curl http://\<public-IP-address\> -vv".
    - Ask a lab instructor for additional help.
 
-6. Congratulations!!! you have successfully deployed the sample index page within NGINX for Azure. This also completes the validation of all the resources that you created using Azure CLI. In the upcoming labs you would be modifying the configuration files and exploring various features of NGINX for Azure resources.
+7. Congratulations!!! you have successfully deployed the sample index page within NGINX for Azure. This also completes the validation of all the resources that you created using Azure CLI. In the upcoming labs you would be modifying the configuration files and exploring various features of NGINX for Azure resources.
 
    **Set your IP variable** (Replace with your actual NGINXaaS Public IP):
 
